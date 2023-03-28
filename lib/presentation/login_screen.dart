@@ -43,7 +43,12 @@ class _LoginScreenState extends State<LoginScreen> {
     } else if (username == 'client' && password == 'password') {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => ClientHomeScreen()),
+        MaterialPageRoute(
+            builder: (context) => ClientHomeScreen(
+                  name: widget.name,
+                  email: widget.email,
+                  phone: widget.phone,
+                )),
       );
     } else {
       setState(() {
