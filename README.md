@@ -36,6 +36,6 @@ or any other available means.
 All the Agents screens are shown below
 | Register Client                                                                                                                      | View new client                                                                                                                        | Update Client                                                                                                                      | New Ticket | Resolve Ticket
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |-------------- |-------------
-| <img src="screenshots/agent/Register client.jpg" /> | <img src="screenshots/agent/View agent profile.jpg" /> | <img src="screenshots/agent/Update profile.jpg" /> | <img src="screenshots/agent/Update ticket.jpg" /> | <img src="screenshots/agent/Ticket.jpg" /> <img src="screenshots/agent/Update ticket.jpg"
+| <img src="screenshots/agent/Register client.jpg" /> | <img src="screenshots/agent/View agent profile.jpg" /> | <img src="screenshots/agent/Update profile.jpg" /> | <img src="screenshots/agent/Update ticket.jpg" /> | <img src="screenshots/agent/Ticket.jpg" /> | <img src="screenshots/agent/Update ticket.jpg"
 
 
