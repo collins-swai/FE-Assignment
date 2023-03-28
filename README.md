@@ -31,7 +31,7 @@ or any other available means.
 - Projects starts from the splash screen and goes to the login page
   | Splash screen                                                                                                                       | Login screen                                                                                                                         |                                                                                                                     |
   | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-  | <img src="screenshots/Splash.jpg" style="zoom:25%;" /> | <img src="screnshots/login.jpg" style="zoom:25%;" /> | 
+  | <img src="screenshots/Splash.jpg"/> | <img src="screnshots/login.jpg"/> | 
 
 
 
